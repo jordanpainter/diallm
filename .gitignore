@@ -1,0 +1,27 @@
+# OS / editor
+*.stackdump
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# Secrets (never commit)
+*.env
+.env*
+
+# Cluster outputs / checkpoints (stay on scratch)
+runs/*/
+wandb/
+
+# Log files (folder tracked via .gitkeep)
+logs/*.out
+logs/*.err
