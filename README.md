@@ -12,7 +12,7 @@ Jordan Painter · Dipankar Srirag · Adarsh Kappiyath · Diptesh Kanojia · Adit
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Models-yellow)](https://huggingface.co/jordanpainter)
 [![Surrey NLP](https://img.shields.io/badge/GitHub-Surrey%20NLP-181717?logo=github)](https://github.com/surrey-nlp)
 
-<img src="assets/diallm_pipeline.png" width="700"/>
+<img src="assets/diallm_pipeline.png" width="500"/>
 
 </div>
 
