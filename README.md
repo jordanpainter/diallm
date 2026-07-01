@@ -1,8 +1,6 @@
 <div align="center">
 
-# DiaLLM
-
-### An Investigation into the Robustness-Generation Gap in English Dialect Adaptation
+# DiaLLM - An Investigation into the Robustness-Generation Gap in English Dialect Adaptation
 
 Jordan Painter · Dipankar Srirag · Adarsh Kappiyath · Diptesh Kanojia · Aditya Joshi · Lu Yin
 
