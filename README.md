@@ -22,6 +22,7 @@ Jordan Painter · Dipankar Srirag · Adarsh Kappiyath · Diptesh Kanojia · Adit
 
 DiaLLM applies a three-stage post-training pipeline to three open-weight LLM families (Llama 3.1-8B, Qwen3-8B, Gemma 3-4B-it) for dialect adaptation across Australian English (en-AU), Indian English (en-IN), and Northern British English (en-UK):
 
+0. **CPT** — continued pre-training on dialectal corpora (not covered here; based on [Q-GaLore](https://github.com/VITA-Group/Q-GaLore) with minor modifications)
 1. **SFT** — supervised fine-tuning on dialectal preference data (`src/sft.py`)
 2. **DPO** — direct preference optimisation (`src/dpo.py`)
 3. **GRPO / GSPO** — online reinforcement learning with a composite dialect reward (`src/train.py`)
