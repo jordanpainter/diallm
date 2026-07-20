@@ -6,7 +6,7 @@ Jordan Painter · Dipankar Srirag · Adarsh Kappiyath · Diptesh Kanojia · Adit
 
 *Institute for People-Centered AI, University of Surrey & University of New South Wales*
 
-[![arXiv](https://img.shields.io/badge/arXiv-X2607.07669-b31b1b.svg)](https://arxiv.org/abs/2607.07669)
+[![arXiv](https://img.shields.io/badge/arXiv-2607.07669-b31b1b.svg)](https://arxiv.org/abs/2607.07669)
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Models+Datasets-yellow)](https://huggingface.co/jordanpainter/collections)
 [![Surrey NLP](https://img.shields.io/badge/GitHub-Surrey%20NLP-181717?logo=github)](https://github.com/surrey-nlp)
 
